@@ -12,8 +12,8 @@ echo "$(echo "$flag" | base64)" > flag_file
 chmod 444 flag_file # set read for all users, no write
 
 # Create a directory for the privileged user's script
-mkdir privileged_script
-cd privileged_script
+mkdir -
+cd -
 
 # Create a program that will extract the flag as another user, but no sudo is required
 echo "#!/bin/bash" > get_flag.sh
