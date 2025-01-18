@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="flag5{d3c0d3_w1th_b64}"
+flag="QS{Qu1ckSn4tch_Ch4mp10n_2024}"
 
 # Create the main challenge directory
 mkdir -p level5_ctf

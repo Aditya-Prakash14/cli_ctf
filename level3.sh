@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="flag3{sympl3r_p4th_t0_th3_fl4g}"
+flag="QS{Crypt0_M4st3r_2024}"
 
 # Create a root directory for the challenge
 mkdir -p level3_ctf

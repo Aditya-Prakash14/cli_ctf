@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="flag4{v3ry_34sy_fl4g}"
+flag="QS{B1n4ry_Wh1sp3r3r_2024}"
 
 # Create the main challenge directory
 mkdir -p level4_ctf

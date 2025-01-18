@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="flag1{this_is_a_hidden_flag}"
+flag="QS{B3g1nn3r_Expl0r3r_2024}"
 
 # Create a directory for the challenge
 mkdir -p level1_ctf
